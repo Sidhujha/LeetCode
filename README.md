@@ -22,6 +22,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sidhujha/LeetCode/tree/master/0001-two-sum) |
+| [0040-combination-sum-ii](https://github.com/Sidhujha/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0217-contains-duplicate](https://github.com/Sidhujha/LeetCode/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
@@ -32,4 +33,8 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Sidhujha/LeetCode/tree/master/0217-contains-duplicate) |
+## Backtracking
+|  |
+| ------- |
+| [0040-combination-sum-ii](https://github.com/Sidhujha/LeetCode/tree/master/0040-combination-sum-ii) |
 <!---LeetCode Topics End-->
