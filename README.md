@@ -18,4 +18,12 @@
 |  |
 | ------- |
 | [3451-string-compression-iii](https://github.com/Sidhujha/LeetCode/tree/master/3451-string-compression-iii) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Sidhujha/LeetCode/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Sidhujha/LeetCode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
