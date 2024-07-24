@@ -17,6 +17,7 @@
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sidhujha/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Sidhujha/LeetCode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Sidhujha/LeetCode/tree/master/0242-valid-anagram) |
 | [3451-string-compression-iii](https://github.com/Sidhujha/LeetCode/tree/master/3451-string-compression-iii) |
@@ -44,4 +45,12 @@
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/Sidhujha/LeetCode/tree/master/0040-combination-sum-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sidhujha/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sidhujha/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
