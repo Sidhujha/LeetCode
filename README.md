@@ -17,6 +17,7 @@
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Sidhujha/LeetCode/tree/master/0242-valid-anagram) |
 | [3451-string-compression-iii](https://github.com/Sidhujha/LeetCode/tree/master/3451-string-compression-iii) |
 ## Array
 |  |
@@ -29,10 +30,12 @@
 | ------- |
 | [0001-two-sum](https://github.com/Sidhujha/LeetCode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Sidhujha/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Sidhujha/LeetCode/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Sidhujha/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Sidhujha/LeetCode/tree/master/0242-valid-anagram) |
 ## Backtracking
 |  |
 | ------- |
