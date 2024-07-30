@@ -27,6 +27,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Sidhujha/LeetCode/tree/master/0001-two-sum) |
 | [0040-combination-sum-ii](https://github.com/Sidhujha/LeetCode/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/Sidhujha/LeetCode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/Sidhujha/LeetCode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Sidhujha/LeetCode/tree/master/0217-contains-duplicate) |
 ## Hash Table
@@ -46,6 +47,7 @@
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/Sidhujha/LeetCode/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/Sidhujha/LeetCode/tree/master/0046-permutations) |
 ## Two Pointers
 |  |
 | ------- |
