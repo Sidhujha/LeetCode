@@ -69,4 +69,12 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Sidhujha/LeetCode/tree/master/0037-sudoku-solver) |
+## Math
+|  |
+| ------- |
+| [0060-permutation-sequence](https://github.com/Sidhujha/LeetCode/tree/master/0060-permutation-sequence) |
+## Recursion
+|  |
+| ------- |
+| [0060-permutation-sequence](https://github.com/Sidhujha/LeetCode/tree/master/0060-permutation-sequence) |
 <!---LeetCode Topics End-->
