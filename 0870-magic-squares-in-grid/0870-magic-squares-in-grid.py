@@ -26,6 +26,7 @@ class Solution:
                 if len(li)==9:
                     if grid[i][j]+grid[i][j+1]+grid[i][j+2]==grid[i][j]+grid[i+1][j]+grid[i+2][j]==grid[i][j+1]+grid[i+1][j+1]+grid[i+2][j+1]==grid[i+1][j]+grid[i+1][j+1]+grid[i+1][j+2]==grid[i][j+2]+grid[i+1][j+2]+grid[i+2][j+2]==grid[i+2][j]+grid[i+2][j+1]+grid[i+2][j+2]==grid[i][j]+grid[i+1][j+1]+grid[i+2][j+2]==grid[i][j+2]+grid[i+1][j+1]+grid[i+2][j]:
                         c+=1
+                        li=set([])
                 else:
                     li=set([])
         return c
