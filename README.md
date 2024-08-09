@@ -32,6 +32,7 @@
 | [0046-permutations](https://github.com/Sidhujha/LeetCode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/Sidhujha/LeetCode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Sidhujha/LeetCode/tree/master/0217-contains-duplicate) |
+| [0870-magic-squares-in-grid](https://github.com/Sidhujha/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [2727-number-of-senior-citizens](https://github.com/Sidhujha/LeetCode/tree/master/2727-number-of-senior-citizens) |
 ## Hash Table
 |  |
@@ -41,6 +42,7 @@
 | [0049-group-anagrams](https://github.com/Sidhujha/LeetCode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Sidhujha/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Sidhujha/LeetCode/tree/master/0242-valid-anagram) |
+| [0870-magic-squares-in-grid](https://github.com/Sidhujha/LeetCode/tree/master/0870-magic-squares-in-grid) |
 ## Sorting
 |  |
 | ------- |
@@ -69,10 +71,12 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Sidhujha/LeetCode/tree/master/0037-sudoku-solver) |
+| [0870-magic-squares-in-grid](https://github.com/Sidhujha/LeetCode/tree/master/0870-magic-squares-in-grid) |
 ## Math
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/Sidhujha/LeetCode/tree/master/0060-permutation-sequence) |
+| [0870-magic-squares-in-grid](https://github.com/Sidhujha/LeetCode/tree/master/0870-magic-squares-in-grid) |
 ## Recursion
 |  |
 | ------- |
