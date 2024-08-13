@@ -3,14 +3,15 @@ class Solution:
         """
         Do not return anything, modify matrix in-place instead.
         """
-        li=[]
+        a=[0]*len(matrix)
+        b=[0]*len(matrix[0])
         for i in range(len(matrix)):
             for j in range(len(matrix[0])):
                 if matrix[i][j]==0:
-                    li.append([i,j])
-        for i in li:
-            for j in range(len(matrix)):
-                for k in range(len(matrix[0])):
-                    if j==i[0] or k==i[1]:
-                        matrix[j][k]=0
+                    a[i]=1
+                    b[j]=1
+        for i in range(len(matrix)):
+            for j in range(len(matrix[0])):
+                if a[i]==1 or b[j]==1:
+                    matrix[i][j]=0
         return matrix
