@@ -35,6 +35,7 @@
 | [0118-pascals-triangle](https://github.com/Sidhujha/LeetCode/tree/master/0118-pascals-triangle) |
 | [0217-contains-duplicate](https://github.com/Sidhujha/LeetCode/tree/master/0217-contains-duplicate) |
 | [0870-magic-squares-in-grid](https://github.com/Sidhujha/LeetCode/tree/master/0870-magic-squares-in-grid) |
+| [0890-lemonade-change](https://github.com/Sidhujha/LeetCode/tree/master/0890-lemonade-change) |
 | [2727-number-of-senior-citizens](https://github.com/Sidhujha/LeetCode/tree/master/2727-number-of-senior-citizens) |
 ## Hash Table
 |  |
@@ -89,4 +90,8 @@
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/Sidhujha/LeetCode/tree/master/0118-pascals-triangle) |
+## Greedy
+|  |
+| ------- |
+| [0890-lemonade-change](https://github.com/Sidhujha/LeetCode/tree/master/0890-lemonade-change) |
 <!---LeetCode Topics End-->
