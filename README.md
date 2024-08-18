@@ -47,6 +47,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Sidhujha/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0217-contains-duplicate](https://github.com/Sidhujha/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Sidhujha/LeetCode/tree/master/0242-valid-anagram) |
+| [0264-ugly-number-ii](https://github.com/Sidhujha/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0870-magic-squares-in-grid](https://github.com/Sidhujha/LeetCode/tree/master/0870-magic-squares-in-grid) |
 ## Sorting
 |  |
@@ -83,6 +84,7 @@
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/Sidhujha/LeetCode/tree/master/0060-permutation-sequence) |
+| [0264-ugly-number-ii](https://github.com/Sidhujha/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0870-magic-squares-in-grid](https://github.com/Sidhujha/LeetCode/tree/master/0870-magic-squares-in-grid) |
 ## Recursion
 |  |
@@ -92,6 +94,7 @@
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/Sidhujha/LeetCode/tree/master/0118-pascals-triangle) |
+| [0264-ugly-number-ii](https://github.com/Sidhujha/LeetCode/tree/master/0264-ugly-number-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -102,4 +105,8 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Sidhujha/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Sidhujha/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0264-ugly-number-ii](https://github.com/Sidhujha/LeetCode/tree/master/0264-ugly-number-ii) |
 <!---LeetCode Topics End-->
