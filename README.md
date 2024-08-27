@@ -35,6 +35,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Sidhujha/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/Sidhujha/LeetCode/tree/master/0118-pascals-triangle) |
 | [0217-contains-duplicate](https://github.com/Sidhujha/LeetCode/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/Sidhujha/LeetCode/tree/master/0283-move-zeroes) |
 | [0624-maximum-distance-in-arrays](https://github.com/Sidhujha/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0870-magic-squares-in-grid](https://github.com/Sidhujha/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/Sidhujha/LeetCode/tree/master/0890-lemonade-change) |
@@ -67,6 +68,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Sidhujha/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sidhujha/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0283-move-zeroes](https://github.com/Sidhujha/LeetCode/tree/master/0283-move-zeroes) |
 ## String Matching
 |  |
 | ------- |
