@@ -17,10 +17,10 @@ class Solution:
             cur=cur.next
         cur.next=cur.next.next
         return head
-        # slow=head
-        # fast=head
-        # while fast.next and fast.next.next:
-        #     slow=slow.next
-        #     fast=fast.next.next
-        # slow.next=slow.next.next
-        # return head
+        slow=head
+        fast=head
+        while fast.next.next and fast.next.next.next:
+            slow=slow.next
+            fast=fast.next.next
+        slow.next=slow.next.next
+        return head
