@@ -14,9 +14,9 @@ class Solution:
             slow=slow.next
             fast=fast.next.next
             if slow==fast:
-                break
-        slow=head
-        while slow!=fast:
-            slow=slow.next
-            fast=fast.next
-        return fast
+                slow=head
+                while slow!=fast:
+                    slow=slow.next
+                    fast=fast.next
+                return fast
+        return None
