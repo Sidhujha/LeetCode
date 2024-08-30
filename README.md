@@ -73,6 +73,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Sidhujha/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sidhujha/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0061-rotate-list](https://github.com/Sidhujha/LeetCode/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/Sidhujha/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Sidhujha/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0283-move-zeroes](https://github.com/Sidhujha/LeetCode/tree/master/0283-move-zeroes) |
@@ -121,6 +122,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Sidhujha/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Sidhujha/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0061-rotate-list](https://github.com/Sidhujha/LeetCode/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/Sidhujha/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Sidhujha/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/Sidhujha/LeetCode/tree/master/0206-reverse-linked-list) |
