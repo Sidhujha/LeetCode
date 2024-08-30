@@ -103,6 +103,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/Sidhujha/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0060-permutation-sequence](https://github.com/Sidhujha/LeetCode/tree/master/0060-permutation-sequence) |
 | [0206-reverse-linked-list](https://github.com/Sidhujha/LeetCode/tree/master/0206-reverse-linked-list) |
 ## Dynamic Programming
@@ -119,6 +120,7 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Sidhujha/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0025-reverse-nodes-in-k-group](https://github.com/Sidhujha/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0141-linked-list-cycle](https://github.com/Sidhujha/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Sidhujha/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/Sidhujha/LeetCode/tree/master/0206-reverse-linked-list) |
