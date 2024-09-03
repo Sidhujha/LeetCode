@@ -1,7 +1,7 @@
 class Solution:
-    def generate(self, numRows: int) -> List[List[int]]:
+    def generate(self, n: int) -> List[List[int]]:
         li=[]
-        for i in range(1,numRows+1):
+        for i in range(1,n+1):
             ans=1
             lis=[]
             lis.append(1)
@@ -11,4 +11,3 @@ class Solution:
                 lis.append(ans)
             li.append(lis)
         return li
-        
