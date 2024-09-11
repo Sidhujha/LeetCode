@@ -8,8 +8,14 @@ class Solution:
         while g>0:
             s2+=str(g%2)
             g//=2
+        if len(s1)>len(s2):
+            s2+="0"*(len(s1)-len(s2))
+        else:
+            s1+="0"*(len(s2)-len(s1))
         c=0
-        for i in range(min(len(s1),len(s2))):
+        for i in range(len(s1)):
             if s1[i]!=s2[i]:
                 c+=1
-        return c+abs(len(s1)-len(s2))
+        return c
+        
+        
