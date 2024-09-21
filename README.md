@@ -162,6 +162,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Sidhujha/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sidhujha/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sidhujha/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0386-lexicographical-numbers](https://github.com/Sidhujha/LeetCode/tree/master/0386-lexicographical-numbers) |
 ## Binary Tree
 |  |
 | ------- |
@@ -177,4 +178,8 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Sidhujha/LeetCode/tree/master/0238-product-of-array-except-self) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/Sidhujha/LeetCode/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
