@@ -35,6 +35,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Sidhujha/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/Sidhujha/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sidhujha/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0200-number-of-islands](https://github.com/Sidhujha/LeetCode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/Sidhujha/LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Sidhujha/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Sidhujha/LeetCode/tree/master/0283-move-zeroes) |
@@ -99,6 +100,7 @@
 | ------- |
 | [0037-sudoku-solver](https://github.com/Sidhujha/LeetCode/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/Sidhujha/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0200-number-of-islands](https://github.com/Sidhujha/LeetCode/tree/master/0200-number-of-islands) |
 | [0870-magic-squares-in-grid](https://github.com/Sidhujha/LeetCode/tree/master/0870-magic-squares-in-grid) |
 ## Math
 |  |
@@ -162,6 +164,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Sidhujha/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sidhujha/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sidhujha/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/Sidhujha/LeetCode/tree/master/0200-number-of-islands) |
 | [0386-lexicographical-numbers](https://github.com/Sidhujha/LeetCode/tree/master/0386-lexicographical-numbers) |
 ## Binary Tree
 |  |
@@ -174,6 +177,7 @@
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Sidhujha/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0200-number-of-islands](https://github.com/Sidhujha/LeetCode/tree/master/0200-number-of-islands) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -182,4 +186,8 @@
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/Sidhujha/LeetCode/tree/master/0386-lexicographical-numbers) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Sidhujha/LeetCode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
