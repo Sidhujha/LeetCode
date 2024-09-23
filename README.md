@@ -23,6 +23,7 @@
 | [0242-valid-anagram](https://github.com/Sidhujha/LeetCode/tree/master/0242-valid-anagram) |
 | [0812-rotate-string](https://github.com/Sidhujha/LeetCode/tree/master/0812-rotate-string) |
 | [2727-number-of-senior-citizens](https://github.com/Sidhujha/LeetCode/tree/master/2727-number-of-senior-citizens) |
+| [2755-extra-characters-in-a-string](https://github.com/Sidhujha/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 | [3451-string-compression-iii](https://github.com/Sidhujha/LeetCode/tree/master/3451-string-compression-iii) |
 ## Array
 |  |
@@ -44,6 +45,7 @@
 | [0870-magic-squares-in-grid](https://github.com/Sidhujha/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/Sidhujha/LeetCode/tree/master/0890-lemonade-change) |
 | [2727-number-of-senior-citizens](https://github.com/Sidhujha/LeetCode/tree/master/2727-number-of-senior-citizens) |
+| [2755-extra-characters-in-a-string](https://github.com/Sidhujha/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -58,6 +60,7 @@
 | [0264-ugly-number-ii](https://github.com/Sidhujha/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Sidhujha/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0870-magic-squares-in-grid](https://github.com/Sidhujha/LeetCode/tree/master/0870-magic-squares-in-grid) |
+| [2755-extra-characters-in-a-string](https://github.com/Sidhujha/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -121,6 +124,7 @@
 | [0118-pascals-triangle](https://github.com/Sidhujha/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sidhujha/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0264-ugly-number-ii](https://github.com/Sidhujha/LeetCode/tree/master/0264-ugly-number-ii) |
+| [2755-extra-characters-in-a-string](https://github.com/Sidhujha/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 ## Greedy
 |  |
 | ------- |
@@ -186,6 +190,7 @@
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/Sidhujha/LeetCode/tree/master/0386-lexicographical-numbers) |
+| [2755-extra-characters-in-a-string](https://github.com/Sidhujha/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 ## Union Find
 |  |
 | ------- |
