@@ -41,6 +41,7 @@
 | [0238-product-of-array-except-self](https://github.com/Sidhujha/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Sidhujha/LeetCode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Sidhujha/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0435-non-overlapping-intervals](https://github.com/Sidhujha/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0624-maximum-distance-in-arrays](https://github.com/Sidhujha/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0870-magic-squares-in-grid](https://github.com/Sidhujha/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/Sidhujha/LeetCode/tree/master/0890-lemonade-change) |
@@ -68,6 +69,7 @@
 | [0217-contains-duplicate](https://github.com/Sidhujha/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Sidhujha/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Sidhujha/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0435-non-overlapping-intervals](https://github.com/Sidhujha/LeetCode/tree/master/0435-non-overlapping-intervals) |
 ## Backtracking
 |  |
 | ------- |
@@ -126,10 +128,12 @@
 | [0118-pascals-triangle](https://github.com/Sidhujha/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sidhujha/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0264-ugly-number-ii](https://github.com/Sidhujha/LeetCode/tree/master/0264-ugly-number-ii) |
+| [0435-non-overlapping-intervals](https://github.com/Sidhujha/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [2755-extra-characters-in-a-string](https://github.com/Sidhujha/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 ## Greedy
 |  |
 | ------- |
+| [0435-non-overlapping-intervals](https://github.com/Sidhujha/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0624-maximum-distance-in-arrays](https://github.com/Sidhujha/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/Sidhujha/LeetCode/tree/master/0890-lemonade-change) |
 ## Linked List
