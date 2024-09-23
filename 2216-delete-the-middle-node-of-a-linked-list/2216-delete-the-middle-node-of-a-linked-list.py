@@ -7,16 +7,6 @@ class Solution:
     def deleteMiddle(self, head: Optional[ListNode]) -> Optional[ListNode]:
         if head==None or head.next==None:
             return None
-        n=0
-        temp=head
-        while temp:
-            n+=1
-            temp=temp.next
-        cur=head
-        for _ in range(n//2-1):
-            cur=cur.next
-        cur.next=cur.next.next
-        return head
         slow=head
         fast=head
         while fast.next.next and fast.next.next.next:
