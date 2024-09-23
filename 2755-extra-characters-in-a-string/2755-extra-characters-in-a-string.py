@@ -18,11 +18,8 @@ class Solution:
             return 0
         d.sort(key=len)
         d=d[::-1]
-        print(d)
         for i in d:
             if i in s:
-                print(s.count(i))
                 s=s.replace(i,"1")
-                print(s,i)
         c=s.count("1")
         return len(s)-c
