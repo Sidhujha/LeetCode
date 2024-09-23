@@ -86,6 +86,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Sidhujha/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0908-middle-of-the-linked-list](https://github.com/Sidhujha/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Sidhujha/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Sidhujha/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## String Matching
 |  |
 | ------- |
@@ -98,6 +99,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Sidhujha/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sidhujha/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sidhujha/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Sidhujha/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Matrix
 |  |
 | ------- |
@@ -144,6 +146,7 @@
 | [0328-odd-even-linked-list](https://github.com/Sidhujha/LeetCode/tree/master/0328-odd-even-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Sidhujha/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Sidhujha/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Sidhujha/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
