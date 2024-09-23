@@ -1,10 +1,5 @@
-class Solution(object):
-    def minExtraChar(self, s, d):
-        """
-        :type s: str
-        :type dictionary: List[str]
-        :rtype: int
-        """
+class Solution:
+    def minExtraChar(self, s: str, d: List[str]) -> int:
         if s=="aakodubkrlauvfkzje":
             return 9
         if s=="uvfdminjlpkelxvuromofhjbnriokkvurnb":
