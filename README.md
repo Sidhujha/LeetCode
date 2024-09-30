@@ -43,6 +43,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Sidhujha/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/Sidhujha/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Sidhujha/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0506-relative-ranks](https://github.com/Sidhujha/LeetCode/tree/master/0506-relative-ranks) |
 | [0624-maximum-distance-in-arrays](https://github.com/Sidhujha/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0870-magic-squares-in-grid](https://github.com/Sidhujha/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/Sidhujha/LeetCode/tree/master/0890-lemonade-change) |
@@ -72,6 +73,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Sidhujha/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/Sidhujha/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Sidhujha/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0506-relative-ranks](https://github.com/Sidhujha/LeetCode/tree/master/0506-relative-ranks) |
 ## Backtracking
 |  |
 | ------- |
@@ -161,6 +163,7 @@
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/Sidhujha/LeetCode/tree/master/0264-ugly-number-ii) |
+| [0506-relative-ranks](https://github.com/Sidhujha/LeetCode/tree/master/0506-relative-ranks) |
 ## Binary Search
 |  |
 | ------- |
