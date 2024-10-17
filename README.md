@@ -23,6 +23,7 @@
 | [0242-valid-anagram](https://github.com/Sidhujha/LeetCode/tree/master/0242-valid-anagram) |
 | [0812-rotate-string](https://github.com/Sidhujha/LeetCode/tree/master/0812-rotate-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Sidhujha/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1304-longest-happy-string](https://github.com/Sidhujha/LeetCode/tree/master/1304-longest-happy-string) |
 | [2727-number-of-senior-citizens](https://github.com/Sidhujha/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/Sidhujha/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 | [3451-string-compression-iii](https://github.com/Sidhujha/LeetCode/tree/master/3451-string-compression-iii) |
@@ -149,6 +150,7 @@
 | [0624-maximum-distance-in-arrays](https://github.com/Sidhujha/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/Sidhujha/LeetCode/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Sidhujha/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1304-longest-happy-string](https://github.com/Sidhujha/LeetCode/tree/master/1304-longest-happy-string) |
 ## Linked List
 |  |
 | ------- |
@@ -170,6 +172,7 @@
 | ------- |
 | [0264-ugly-number-ii](https://github.com/Sidhujha/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0506-relative-ranks](https://github.com/Sidhujha/LeetCode/tree/master/0506-relative-ranks) |
+| [1304-longest-happy-string](https://github.com/Sidhujha/LeetCode/tree/master/1304-longest-happy-string) |
 ## Binary Search
 |  |
 | ------- |
