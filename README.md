@@ -126,6 +126,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Sidhujha/LeetCode/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/Sidhujha/LeetCode/tree/master/0007-reverse-integer) |
 | [0060-permutation-sequence](https://github.com/Sidhujha/LeetCode/tree/master/0060-permutation-sequence) |
 | [0264-ugly-number-ii](https://github.com/Sidhujha/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0870-magic-squares-in-grid](https://github.com/Sidhujha/LeetCode/tree/master/0870-magic-squares-in-grid) |
