@@ -55,6 +55,7 @@
 | [2586-longest-square-streak-in-an-array](https://github.com/Sidhujha/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/Sidhujha/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/Sidhujha/LeetCode/tree/master/2755-extra-characters-in-a-string) |
+| [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Sidhujha/LeetCode/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/Sidhujha/LeetCode/tree/master/4080-smallest-missing-multiple-of-k) |
 ## Hash Table
 |  |
@@ -73,6 +74,7 @@
 | [1256-rank-transform-of-an-array](https://github.com/Sidhujha/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Sidhujha/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2755-extra-characters-in-a-string](https://github.com/Sidhujha/LeetCode/tree/master/2755-extra-characters-in-a-string) |
+| [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Sidhujha/LeetCode/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/Sidhujha/LeetCode/tree/master/4080-smallest-missing-multiple-of-k) |
 ## Sorting
 |  |
@@ -256,4 +258,8 @@
 |  |
 | ------- |
 | [0783-search-in-a-binary-search-tree](https://github.com/Sidhujha/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
+## Counting
+|  |
+| ------- |
+| [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Sidhujha/LeetCode/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 <!---LeetCode Topics End-->
